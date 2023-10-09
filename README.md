@@ -1,8 +1,8 @@
 <div>
-  <img />
+  <img src="welcome.gif" height="250px" width="100%"/>
 </div>
-<div>
-  <img src="./Animação.gif" height="100px" width="auto"/>
+<div style="display: flex">
+  <img src="Animação.gif" height="100px" width="auto" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=700&pause=1000&color=7300F9&width=435&lines=Hello%2C+I'm+a+full-stack+developer!" alt="Typing SVG" /></a>
 </div>
 <hr />
