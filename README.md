@@ -10,6 +10,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&vCenter=true&width=500&lines=Hi%2C+I'm+a+full-stack+developer!" alt="Typing SVG" /></a>
   <img src="Animação.gif" height="100px" width="auto" />
 </div>
+<br />
 <div>
   <img src="lineto.png">
 </div>
@@ -23,11 +24,13 @@
     "I'm passionate about crafting amazing, functional, and highly efficient user interfaces. I'm excited for what the future holds on this programming journey. I hope to reach new heights and get closer to infinity."
   </p>
 </div>
+<br />
 <div>
   <a href="https://github.com/YanzinhoCaue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanzinhoCaue&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanzinhoCaue&layout=compact&langs_count=6&theme=midnight-purple"/>  
 </div>
+<br />
 <div>
   <img src="lineto.png">
 </div>
@@ -36,6 +39,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&vCenter=true&width=125&lines=My+skills" alt="Typing SVG" /></a>
   <img src="about.gif" height="100px"/>
 </div>
+<br />
 <div>
   <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -64,6 +68,7 @@
   <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
+<br />
 <div>
   <img src="lineto.png">
 </div>
@@ -72,6 +77,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&vCenter=true&width=125&lines=Contact" alt="Typing SVG" /></a>
   <img src="bonfire.gif" height="100px" />
 </div>
+<br />
 <div>
     <a href="">
       <img src="whatsapp.png" height="35px"/>
