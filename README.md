@@ -71,8 +71,19 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&width=125&lines=Contact" alt="Typing SVG" /></a>
 </div>
 <div>
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="100px"/>
     <a href="">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F9F9F9&vCenter=true&multiline=true&repeat=false&width=1000&lines=%2B55+(35)+9+9951-9365" alt="Typing SVG" /></a>
+      <img src="whatsapp.png" height="35px"/>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100005135588794">
+      <img src="facebook.png" height="35px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/yan-cauê-gomes-pereira-a9274715b/">
+      <img src="linkedin.png" height="35px"/>
+    </a>
+    <a href="https://www.instagram.com/yan_caue_gomes/">
+      <img src="instagram.png" height="35px"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UC-gR1KHioEdvEupmw0uEeWg">
+      <img src="youtube.png" height="35px"/>
     </a>
 </div>
