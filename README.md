@@ -7,7 +7,7 @@
 </div>
 <br />
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&vCenter=true&width=700&lines=Hi%2C+I'm+a+full-stack+developer+and+programmer!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&vCenter=true&width=500&lines=Hi%2C+I'm+a+full-stack+developer!" alt="Typing SVG" /></a>
   <img src="Animação.gif" height="100px" width="auto" />
 </div>
 <div>
@@ -67,6 +67,7 @@
 <div>
   <img src="lineto.png">
 </div>
+<br />
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&vCenter=true&width=125&lines=Contact" alt="Typing SVG" /></a>
   <img src="bonfire.gif" height="100px" />
