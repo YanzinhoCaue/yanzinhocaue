@@ -3,8 +3,15 @@
 </div>
 <br />
 <div>
+  <img src="line.png">
+</div>
+<br />
+<div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&width=700&lines=Hi%2C+I'm+a+full-stack+developer+and+programmer!" alt="Typing SVG" /></a>
   <img src="Animação.gif" height="100px" width="auto" />
+</div>
+<div>
+  <img src="line.png">
 </div>
 <br />
 <div>
