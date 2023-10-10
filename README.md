@@ -1,5 +1,5 @@
 <div>
-  <img src="welcometomyprofile.gif" height="250px" width="100%"/>
+  <img src="welcome.gif" height="250px" width="100%"/>
 </div>
 <br />
 <div>
@@ -15,13 +15,22 @@
 </div>
 <br />
 <div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&width=435&lines=About+me" alt="Typing SVG" /></a>
+</div>
+<div>
+  <p>
+    "I'm passionate about crafting amazing, functional, and highly efficient user interfaces. I'm excited for what the future holds on this programming journey. I hope to reach new heights and get closer to infinity."
+  </p>
+</div>
+<div>
   <a href="https://github.com/YanzinhoCaue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanzinhoCaue&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanzinhoCaue&layout=compact&langs_count=6&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanzinhoCaue&layout=compact&langs_count=6&theme=midnight-purple"/>  
 </div>
 <br />
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&width=435&lines=My+skills" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7300F9&width=150&lines=My+skills" alt="Typing SVG" /></a>
+  <img src="darksouls.gif" height="100px"/>
 </div>
 <div>
   <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
