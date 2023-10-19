@@ -21,9 +21,9 @@
       <img src="darksouls.gif" height="100px"/>
     </div>
     <div>
-      <p>
+      <strong>
       "I'm passionate about crafting amazing, functional, and highly efficient user interfaces. I'm excited for what the future holds on this programming journey. I hope to reach new heights and get closer to infinity."
-      </p>
+      </strong>
     </div>
     <br />
     <div>
