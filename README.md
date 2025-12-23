@@ -4,16 +4,10 @@
     </div>
     <br />
 
-    <div>
-        <a href="https://yancaue.me" target="_blank">
-            <img src="https://img.shields.io/badge/ACCESS_DASHBOARD-00f3ff?style=for-the-badge&logo=react&logoColor=black" alt="Dashboard" />
-        </a>
-        <a href="https://yancaue.me/Portifolio-Agro/" target="_blank">
-            <img src="https://img.shields.io/badge/WORKER_PROFILE_(H--2A)-0aff0a?style=for-the-badge&logo=leaf&logoColor=black" alt="Agro Profile" />
-        </a>
-        <a href="https://yancaue.me/Portifolio/" target="_blank">
-            <img src="https://img.shields.io/badge/DEV_SYSTEM-bc13fe?style=for-the-badge&logo=github&logoColor=white" alt="Dev Portfolio" />
-        </a>
+    <div align="center">
+    <a href="https://yancaue.me" target="_blank"><img src="https://img.shields.io/badge/ACCESS_DASHBOARD-00f3ff?style=for-the-badge&logo=react&logoColor=black" alt="Dashboard" /></a>
+    <a href="https://yancaue.me/Portifolio-Agro/" target="_blank"><img src="https://img.shields.io/badge/WORKER_PROFILE_(H--2A)-0aff0a?style=for-the-badge&logo=leaf&logoColor=black" alt="Agro Profile" /></a>
+    <a href="https://yancaue.me/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/DEV_SYSTEM-bc13fe?style=for-the-badge&logo=github&logoColor=white" alt="Dev Portfolio" /></a>
     </div>
     <br />
     <div>
@@ -84,7 +78,7 @@
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
           <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss            logo"  />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
         </div>
         <br />
         🛠️ Tools & Build: <br />
