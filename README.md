@@ -4,9 +4,6 @@
 
 <div align="center">
 <a href="https://yancaue.me" target="_blank"><img src="https://img.shields.io/badge/ACCESS_DASHBOARD-00f3ff?style=for-the-badge&logo=react&logoColor=black" alt="Dashboard" /></a>
-<a href="https://yancaue.me/Portifolio-Agro/" target="_blank"><img src="https://img.shields.io/badge/WORKER_PROFILE_(H--2A)-0aff0a?style=for-the-badge&logo=leaf&logoColor=black" alt="Agro Profile" /></a>
-<a href="https://yancaue.me/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/DEV_SYSTEM-bc13fe?style=for-the-badge&logo=github&logoColor=white" alt="Dev Portfolio" /></a>
-</div>
 <br />
 <div><img src="lineto.png"></div>
 <br />
