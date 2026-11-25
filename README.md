@@ -127,11 +127,4 @@
 </div>
 <img src="lineto.png">
 <br />
-<br />
-<div>
-<a href="https://open.spotify.com/user/312yarwvfin2wvuu5lffagycknkq">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=312yarwvfin2wvuu5lffagycknkq&theme=dark" alt="Spotify — Recently Played" width="400" />
-</a>
-</div>
-<br />
 </div>
